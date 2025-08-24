@@ -1,5 +1,5 @@
 # samwise-structures
-No code here, just issue tracking for the Structures team.
+No code here, just issue tracking for the Structures team. Issues can be created and organized in the corresponding Structures project: https://github.com/orgs/stanford-ssi/projects/14
 
 **Guidelines for Issue Tickets**
 
