@@ -6,33 +6,11 @@ labels: ''
 assignees: ''
 
 ---
-
-**Describe the issue**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+- **Title:** Brief but specific (e.g. "Z tray tolerance interaction with standoffs" rather than "Z tray issue").
+- **Assignee:** The person or people in charge of fixing the issue. Also note if collaboration with other sub-teams is necessary.
+**Labels**
+- *Time Estimate:* XS (sub-hour) through XL (weeks)
+- *Priority:* 0 (critical) through 3 (luxury)
+**Body**
+- *Description:* Describe the issue, including enough details that people who weren't present when the issue was discovered can understand.
+- *Action Plan:* Steps towards a solution--can be vague at first and updated as progress is made.
