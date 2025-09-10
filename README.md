@@ -15,6 +15,7 @@ The following four items should be in the body text of the issue:
 - **Assignee:** Put yourself in the "Assignees" field when creating the issue, then list other relevant people here. Also note if collaboration with other sub-teams is necessary.
 - **Description:** Describe the issue, including enough details that people who weren't present when the issue was discovered can understand.
 - **Action Plan:** Steps towards a solution--can be vague at first and updated as progress is made.
-- **Due Date:** An initial deadline for fixing the issue. Can be updated as progress is made.
+
+Once the issue is created, **mark today's date and a preliminary deadline (which can be changed later) in the Timeline view of the project:** https://github.com/orgs/stanford-ssi/projects/14/views/2. Also add a parent issue (e.g. CAD tasks) if applicable.
 
 Issues are placed in To Do when initially created and moved to In Progress as they are worked on. One of the co-leads (Lisa or Nate) will move issues to Done.
